@@ -1,0 +1,5 @@
+# misc
+.ipynb/*
+.idea/*
+.idea
+.ipynb_checkpoints
